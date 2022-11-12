@@ -2,96 +2,79 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Rebeka Martinez
     - name: Languages
-      value: English, German
+      value: English (some Vietnamese, Chinese and Spanish)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Batchelors Degree 
+      institution: The University of Texas at Austin
+      description: Double Major
+        - Corporate Finance
+        - Corporate Communications
         - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+          contents: Double Minor 
+            - Accounting 
+            - Psychology 
+    - title: Machine Learning Bootcamp
+      institution: CoderSchool
+      year: 2020
+    - title: Python for Data Analytics 
+      institution: CoderSchool
+      year: 2019
+     
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Analytics Developer
+      institution: Kelly Services- GE Vernova 
+      year: 2021-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Design, develop, deliver, and maintain scalable reports using python and REST APIs to automate the integration of Smartsheets with external data sources (AWS)
+        - Develop and maintain visualization tools to monitor turbine faults in Tableau 
+        - Analyze and write data queries to extract and load data for reports and projects in AWS Redshift, PostgreSQL, and SAS
+        - Use Postman/Python to automate API calls for large-scale data ingestion and analysis (HTTP.client, Pandas, NumPy, Requests)
+        - Understand, interpret, translate business requirements into digestible technical documentation 
+        - Serve as champion between GE Digital and GE Renewables leading small teams and projects 
+        - Interacted with management and senior developers to develop data standardization and identify data discrepancies in the data pipeline 
+
+    - title: Remote Learning Facilitator-Contract
+      institution: Saigon South International School 
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Developed and implemented a new program for Remote Learners 
+        - Created a G Suite based student tracking system to proactively resolve issues and monitor trends
+        - Responsible for improving remote learning processes, technology, and development of new programs 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Machine Learning Researcher- Internship 
+      institution: CoderSchool
+      year: 2020-2021
+      description: 
+        - Web scraped utilizing BeautifulSoup and Selenium to extract data
+        - Collected, queried, and cleaned data using SQL/BigQuery/Python/Pandas
+        - Analyzed and Visualized Data through Matplotlib, Seaborn, and Google Data Studio
+        - Created a Facial Recognition system by combining TensorFlow, OpenCV, Keras and YOLO
+    
+    - title: English Language Teacher   
+      institution: VUS - The English Center 
+      year: 2017-2021
+      description: 
+        - Provided engaging, coherent, and motivating lectures and lessons to students across key development stages
+        - Adapted in-person classes to interactive online courses for students aged 5-25 
+        - Mentored and trained new foreign teachers and local teaching assistants  
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Dean of Foreign Staff/Head Teacher  
+      institution: Yong Xing Educational Group 
+      year: 2015-2017
+      description: 
+        - Worked with Departmental Chairs and the Government to ensure compliance with all rules and regulations
+        - Managed and evaluated the performance of elementary, middle, and high school foreign teachers
+        - Designed training programs for foreign primary teachers, incorporating both technology and media
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Analytics, Big Data, Lifting, Traveling 
