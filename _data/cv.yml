@@ -24,15 +24,15 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Analytics Developer
+    - title: Python Developer
       institution: Kelly Services- GE Vernova 
       year: 2021-Present
       description:
         - Design, develop, deliver, and maintain scalable reports using python and REST APIs to automate the integration of Smartsheets with external data sources (AWS)
         - Develop and maintain visualization tools to monitor turbine faults in Tableau 
-        - Analyze and write data queries to extract and load data for reports and projects in AWS Redshift, PostgreSQL, and SAS
+        - Analyze and write scripts to extract,transform and load data for reports and projects in AWS Redshift, PostgreSQL, and SAS (ETL Pipelines)
         - Use Postman/Python to automate API calls for large-scale data ingestion and analysis (HTTP.client, Pandas, NumPy, Requests)
-        - Understand, interpret, translate business requirements into digestible technical documentation 
+        - Understand, interpret, translate business requirements into technical version-controlled documentation (Github) 
         - Serve as champion between GE Digital and GE Renewables leading small teams and projects 
         - Interacted with management and senior developers to develop data standardization and identify data discrepancies in the data pipeline 
 
